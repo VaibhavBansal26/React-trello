@@ -1,0 +1,15 @@
+.header{
+    width:100%;
+    top:0px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height:60px;
+    background-color: #54a0ff;
+    color:white;
+    border-bottom: 5px solid #2e86de;
+    font-weight: bold;
+    font-size:24px;
+    font-family: 'Source Code Pro', monospace;
+    margin-bottom: 50px;
+}
